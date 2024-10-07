@@ -30,4 +30,4 @@ console.log("Last name:", typeof last_name)
 
 const e = 3.14
 let radius = 5
-console.log("Area of cirle =", e * radius * 2)
+console.log("Area of cirle =", e * radius * radius)
